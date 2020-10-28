@@ -10,7 +10,7 @@ android {
         //noinspection OldTargetApi
         targetSdkVersion 28
         versionCode 1
-        versionName "2.3.0.5"
+        versionName "2.3.0.6"
         archivesBaseName = "C-Face"
     }
 
