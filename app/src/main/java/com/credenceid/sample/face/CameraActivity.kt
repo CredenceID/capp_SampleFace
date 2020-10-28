@@ -500,6 +500,7 @@ class CameraActivity : Activity(), SurfaceHolder.Callback {
             camera = null
             /* We are no longer in preview mode. */
             inPreview = false
+            mIsCameraConfigured = false;
         }
 
         /* Remove camera surfaces. */
